@@ -13,5 +13,6 @@ public class Dugujiujian {
         System.out.println("hello dugujiujian44444!!!!");
         System.out.println("hello dugujiujian44444!!!!");
         System.out.println("hello 23233232!!!!");
+        System.out.println("放弃吧你是归海一刀");
     }
 }
